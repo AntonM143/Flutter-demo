@@ -32,6 +32,7 @@ Verify that the flutter command is available by running:
 6. $ which flutter
 
 -----
+![image](https://user-images.githubusercontent.com/72130785/119954137-fae54700-bf9e-11eb-87e0-7b0b01080cfc.png)
 
 
 
