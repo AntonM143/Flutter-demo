@@ -62,6 +62,7 @@ class _HomeViewState extends State<HomeView> {
     Colors.blueAccent,
     Colors.redAccent,
     Colors.deepPurpleAccent,
+    Colors.greenAccent,
   ];
 
   @override
